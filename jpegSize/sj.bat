@@ -1,0 +1,2 @@
+@python "sj.py"
+@pause
